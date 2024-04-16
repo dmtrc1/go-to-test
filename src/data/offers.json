@@ -1,0 +1,36 @@
+{
+  "offersData": [
+    {
+      "id": 1,
+      "title": "Move the borders\nof reality!",
+      "description": "Go on a space adventure",
+      "imageUrl": "./offer-bg-1.jpg",
+      "placeholderUrl": "./offer-bg-1-placeholder.jpg",
+      "linkUrl": "#"
+    },
+    {
+      "id": 2,
+      "title": "Space is not just stars and planets",
+      "description": "it is a majestic journey to",
+      "imageUrl": "./offer-bg-2.jpg",
+      "placeholderUrl": "./offer-bg-2-placeholder.jpg",
+      "linkUrl": "#"
+    },
+    {
+      "id": 3,
+      "title": "For those who dream of stars",
+      "description": "Our offer: make your dream come true",
+      "imageUrl": "./offer-bg-3.jpg",
+      "placeholderUrl": "./offer-bg-3-placeholder.jpg",
+      "linkUrl": "#"
+    },
+    {
+      "id": 4,
+      "title": "Fulfill your\nfantastic dreams",
+      "description": "Space has never been so close",
+      "imageUrl": "./offer-bg-4.jpg",
+      "placeholderUrl": "./offer-bg-4-placeholder.jpg",
+      "linkUrl": "#"
+    }
+  ]
+}
